@@ -66,31 +66,6 @@ friction and contact settings when you need direct control.
   <img src="docs/images/body-properties.png" alt="Body Properties panel with per-mesh physics controls" width="820">
 </p>
 
-## Requirements
-
-- Blender 4.2 or newer
-- The MuJoCo Python package installed in Blender's bundled Python
-
-```bash
-/path/to/blender/python/bin/python3.x -m pip install mujoco
-```
-
-Blujoco loads gracefully without MuJoCo installed, but simulation and export
-operators require the Python package.
-
-## Installation
-
-The plugin source is currently private. For access, releases, or installation
-instructions, contact the project maintainer.
-
-Once installed:
-
-1. Enable **Blujoco** in Blender Preferences.
-2. Open the **MuJoCo** tab in the 3D Viewport sidebar with `N`.
-3. Select the meshes you want to simulate.
-4. Add joints, sites or tendons from the sidebar.
-5. Run live simulation, bake the result, or export MJCF.
-
 ## License
 
 Blujoco is licensed as GPL-2.0-or-later.
