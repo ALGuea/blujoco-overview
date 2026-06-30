@@ -11,6 +11,9 @@ without leaving Blender.
 ## Feature Overview
 
 
+https://github.com/user-attachments/assets/6802a6f2-6cd3-43cc-8e19-21e5f7c190aa
+
+
 <p align="center">
   <img src="docs/images/panel-tour.png" alt="Blujoco panel and viewport tour" width="900">
 </p>
