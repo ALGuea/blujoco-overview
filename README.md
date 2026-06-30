@@ -10,12 +10,7 @@ without leaving Blender.
 
 ## Feature Overview
 
-<p align="center">
-  <video src="Features.mp4" controls width="900">
-    Your browser does not support embedded video. You can download the feature
-    overview video from <a href="Features.mp4">Features.mp4</a>.
-  </video>
-</p>
+<video src="Features.mp4" width="900" height="506" controls></video>
 
 <p align="center">
   <img src="docs/images/panel-tour.png" alt="Blujoco panel and viewport tour" width="900">
