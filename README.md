@@ -10,7 +10,6 @@ without leaving Blender.
 
 ## Feature Overview
 
-<video src="Features.mp4" width="900" height="506" controls></video>
 
 <p align="center">
   <img src="docs/images/panel-tour.png" alt="Blujoco panel and viewport tour" width="900">
